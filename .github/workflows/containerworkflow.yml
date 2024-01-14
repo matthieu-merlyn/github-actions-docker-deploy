@@ -41,7 +41,6 @@ jobs:
           #NAMESPACE: dummy
 
         steps:
-
         - uses: actions/checkout@main
 
         # Set the target Azure Kubernetes Service (AKS) cluster.
